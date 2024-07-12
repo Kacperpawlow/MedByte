@@ -1,0 +1,68 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<IdentityUser>
+
+@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center">Admin Panel</h1>
+
+    <h2>Users</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>
+                        <form method="post" asp-action="DeleteUser" asp-route-id="@user.Id" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                        @if (user.LockoutEnd.HasValue && user.LockoutEnd > DateTime.UtcNow)
+                        {
+                            <form method="post" asp-action="UnbanUser" asp-route-id="@user.Id" style="display:inline;">
+                                <button type="submit" class="btn btn-warning">Unban</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form method="post" asp-action="BanUser" asp-route-id="@user.Id" style="display:inline;">
+                                <button type="submit" class="btn btn-secondary">Ban</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h2>Tomografy</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tomograf in ViewBag.Tomografy)
+            {
+                <tr>
+                    <td>@tomograf.Nazwa</td>
+                    <td>
+                        <form method="post" asp-action="DeleteTomograf" asp-route-id="@tomograf.Id" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

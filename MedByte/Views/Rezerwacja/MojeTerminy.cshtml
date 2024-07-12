@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Medbyte.Models.Rezerwacja>
+
+@{
+    ViewData["Title"] = "Moje Terminy";
+}
+
+<h1>Moje Terminy</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Tomograf</th>
+            <th>Opcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rezerwacja in Model)
+        {
+            <tr>
+                <td>@rezerwacja.Data.ToShortDateString()</td>
+                <td>@rezerwacja.Tomograf.Nazwa</td>
+                <td>
+                    <form asp-action="Odwolaj" method="post">
+                        <input type="hidden" name="id" value="@rezerwacja.Id" />
+                        <button type="submit" class="btn btn-danger">Odwołaj</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

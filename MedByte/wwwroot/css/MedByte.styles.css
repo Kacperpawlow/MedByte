@@ -1,0 +1,62 @@
+﻿/* Kolory */
+:root {
+    --primary-color: #FF7F50; /* Coral */
+    --secondary-color: #FFA07A; /* Light Salmon */
+    --text-color: #000000; /* Black */
+    --background-color: #FFF5EE; /* Seashell */
+    --navbar-color: #DC3545; /* Red */
+}
+
+/* Global Styles */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-size: 1.2rem; /* Powiększenie podstawowego rozmiaru czcionki */
+}
+
+.navbar {
+    background-color: var(--navbar-color);
+}
+
+    .navbar .nav-link {
+        color: var(--text-color);
+    }
+
+    .navbar .navbar-brand {
+        color: var(--text-color);
+        font-size: 2em; /* Powiększenie nazwy marki */
+    }
+
+.footer {
+    background-color: var(--navbar-color);
+    color: var(--text-color);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--text-color);
+}
+
+    .btn-primary:hover {
+        background-color: var(--secondary-color);
+        border-color: var(--secondary-color);
+    }
+
+.card {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    font-size: 1rem; /* Powiększenie czcionki w kartach */
+}
+
+    .card .card-title {
+        font-size: 1.25rem; /* Powiększenie tytułu karty */
+    }
+
+    .card .card-text {
+        font-size: 1rem; /* Powiększenie tekstu karty */
+    }
+
+.footer a {
+    color: var(--text-color);
+}

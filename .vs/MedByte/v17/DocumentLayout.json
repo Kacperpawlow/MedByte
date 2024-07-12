@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MedByte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\tomografy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\tomografy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\tomografy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\tomografy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\tomografy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\tomografy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\tomografy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\tomografy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\views\\rezerwacja\\mojeterminy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\views\\rezerwacja\\mojeterminy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|e:\\medbyte\\medbyte\\models\\tomograf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\models\\tomograf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|e:\\medbyte\\medbyte\\models\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\models\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|e:\\medbyte\\medbyte\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|e:\\medbyte\\medbyte\\data\\migrations\\20240710220654_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\data\\migrations\\20240710220654_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|e:\\medbyte\\medbyte\\data\\migrations\\20240710214549_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\data\\migrations\\20240710214549_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\controllers\\tomografycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\controllers\\tomografycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|E:\\MedByte\\medbyte\\controllers\\rezerwacjacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC322F47-BE2A-41E2-8D5F-FAE227A74233}|MedByte\\MedByte.csproj|solutionrelative:medbyte\\controllers\\rezerwacjacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MojeTerminy.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Rezerwacja\\MojeTerminy.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Rezerwacja\\MojeTerminy.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Rezerwacja\\MojeTerminy.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Rezerwacja\\MojeTerminy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:14:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:18:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Create.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Tomografy\\Create.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Create.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Tomografy\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:32:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Details.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Tomografy\\Details.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Details.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Tomografy\\Details.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T16:56:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Tomografy\\Edit.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Edit.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Tomografy\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:38:56.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedByte\\Views\\Tomografy\\Index.cshtml",
+              "ToolTip": "E:\\MedByte\\MedByte\\Views\\Tomografy\\Index.cshtml",
+              "RelativeToolTip": "MedByte\\Views\\Tomografy\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:33:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Program.cs",
+              "RelativeDocumentMoniker": "MedByte\\Program.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Program.cs",
+              "RelativeToolTip": "MedByte\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:03:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tomograf.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Models\\Tomograf.cs",
+              "RelativeDocumentMoniker": "MedByte\\Models\\Tomograf.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Models\\Tomograf.cs",
+              "RelativeToolTip": "MedByte\\Models\\Tomograf.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:55:05.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rezerwacja.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Models\\Rezerwacja.cs",
+              "RelativeDocumentMoniker": "MedByte\\Models\\Rezerwacja.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Models\\Rezerwacja.cs",
+              "RelativeToolTip": "MedByte\\Models\\Rezerwacja.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:55:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "MedByte\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:05:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MedByte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:54:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240710220654_user.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240710220654_user.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\Migrations\\20240710220654_user.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240710220654_user.cs",
+              "RelativeToolTip": "MedByte\\Data\\Migrations\\20240710220654_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:54:18.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240710214549_init.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240710214549_init.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\Migrations\\20240710214549_init.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240710214549_init.cs",
+              "RelativeToolTip": "MedByte\\Data\\Migrations\\20240710214549_init.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:54:05.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MedByte\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:05:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240711165707_rezerwacja2.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs",
+              "RelativeDocumentMoniker": "MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs",
+              "RelativeToolTip": "MedByte\\Data\\Migrations\\20240711165707_rezerwacja2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:57:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RezerwacjaController.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Controllers\\RezerwacjaController.cs",
+              "RelativeDocumentMoniker": "MedByte\\Controllers\\RezerwacjaController.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Controllers\\RezerwacjaController.cs",
+              "RelativeToolTip": "MedByte\\Controllers\\RezerwacjaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:59:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TomografyController.cs",
+              "DocumentMoniker": "E:\\MedByte\\MedByte\\Controllers\\TomografyController.cs",
+              "RelativeDocumentMoniker": "MedByte\\Controllers\\TomografyController.cs",
+              "ToolTip": "E:\\MedByte\\MedByte\\Controllers\\TomografyController.cs",
+              "RelativeToolTip": "MedByte\\Controllers\\TomografyController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:53:07.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
